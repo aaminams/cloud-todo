@@ -1,4 +1,3 @@
-\# Cloud-Todo
 
 A simple Todo API deployed to AWS EKS using Docker, ECR, and GitHub Actions.
 
