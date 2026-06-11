@@ -4,4 +4,3 @@ Code Repo for a simple Todo API deployed to AWS EKS using Docker, ECR, and GitHu
 Features: IaC (eksctl), CI/CD, Autoscaling (HPA), Monitoring (CloudWatch).
 
 
-
